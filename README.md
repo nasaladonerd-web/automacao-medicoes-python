@@ -24,8 +24,6 @@ Pipeline em Python para ler planilhas de medição, validar regras contratuais e
 
 ![Preview da execução](assets/preview.svg)
 
-> Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
-
 ## Status
 
 Estudo aplicado
@@ -37,7 +35,7 @@ Estudo aplicado
 - [ ] Publicar GIF de execução no README
 - [ ] Criar seção de lições aprendidas
 
-## Como executar (placeholder)
+## Como executar
 
 ```bash
 # em breve
