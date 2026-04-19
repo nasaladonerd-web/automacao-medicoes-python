@@ -1,5 +1,7 @@
 # Automação de Medições com Python
 
+> 🚧 **Em construção:** este projeto está sendo desenvolvido aos poucos, com entregas incrementais.
+
 ## Problema
 Automatizar boletins de medição de obras para reduzir retrabalho, erros de cálculo e tempo de fechamento.
 
