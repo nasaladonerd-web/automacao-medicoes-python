@@ -22,7 +22,7 @@ Pipeline em Python para ler planilhas de medição, validar regras contratuais e
 > Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
 
 ## Status
-**Em construção (entregas incrementais semanais)**
+**Estudo aplicado**
 
 ## Roadmap curto
 - [ ] Implementar versão mínima funcional (MVP)
@@ -34,3 +34,8 @@ Pipeline em Python para ler planilhas de medição, validar regras contratuais e
 ```bash
 # em breve
 ```
+
+## Próxima entrega da semana
+- [ ] Ler planilha de entrada com validação básica de colunas obrigatórias
+- [ ] Gerar saída consolidada em formato Excel para conferência
+- [ ] Documentar exemplo mínimo de uso no README
